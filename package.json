@@ -1,0 +1,14 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "my first prorogram",
+  "main": "test.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "anthony",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
